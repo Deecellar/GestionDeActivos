@@ -21,9 +21,9 @@ npm start
 ## Noticias
 ##
  
-###__1. Los Sprints serán de 7 dias, de Sábado a Viernes__
+##__1. Los Sprints serán de 7 dias, de Sábado a Viernes__
  
-###__2. Sprints__
+##__2. Sprints__
  
 Si miran el sprint actual en boards verán que ahora están marcados con colores según la prioridad
  
@@ -33,7 +33,7 @@ antes de poder seguir con las otras tareas del sprint.
 En amarillo están las tareas de __prioridad alta__ :warning:, son tareas que no se deberían dejar pasar de este 
 sprint porque atrasan el sprint siguiente.
  
-###__3. Documentación__
+##__3. Documentación__
  
 Cualquiera que tome una tarea que implique documentación, *lo más probable es que tenga el tag de 
 documentación*, suba el documento a los archivos del grupo en __teams__

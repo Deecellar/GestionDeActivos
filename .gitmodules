@@ -1,0 +1,6 @@
+[submodule "patic-backend"]
+	path = patic-backend
+	url = /home/delph/patic-backend/
+[submodule "patic-front"]
+	path = patic-front
+	url = /home/delph/patic-front/
